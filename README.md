@@ -1,52 +1,92 @@
-🧠 ML Journey — From Zero to Projects
+# ML & DL Journey 
 
-Hey, welcome to my ML journey repo.
+Welcome to my **Machine Learning & Deep Learning journey**.
 
-This is where I'm documenting everything I learn about Machine Learning — day by day, notebook by notebook. No skipping, no shortcuts. Just consistent daily progress from the absolute basics all the way up to building real, working projects.
+This repository documents my learning process as I move from the fundamentals of Machine Learning to Deep Learning and eventually toward building real-world AI projects.
 
-Every day I sit down, learn something new, code it out in a Colab notebook, and push it here. That's the whole idea. Some days will be messy and exploratory, some days will have clean code and solid notes — but every day will be something.
+I'm learning **concept by concept, notebook by notebook**. The goal isn't to rush through tutorials or collect certificates — it's to understand how things actually work, implement them myself, experiment with different approaches, and gradually develop the skills required to build ML/DL systems.
 
+Some notebooks will be clean and structured. Others will be messy experiments or notes from things I'm currently figuring out. That's intentional.
 
-📌 What This Repo Is
+**This repository is my learning log, not a finished portfolio.**
 
-Think of this as my open learning diary for ML. I'm not trying to make it look like a polished portfolio (that comes later). Right now, the goal is to show up every single day, understand the concepts deeply, and build the habit of thinking like an ML engineer.
+---
 
-Each folder is organized by day, and each notebook has:
+## 🎯 What This Repo Is
 
+Think of this repository as my **open ML & DL Journey**.
 
-What I studied that day
-Code I wrote and experimented with
+It covers my journey from:
 
+**Python & Data → Data Preprocessing → Exploratory Data Analysis → Classical ML → Model Evaluation → Feature Engineering → Neural Networks → Deep Learning → Transformers → Real-World Projects**
 
+Each topic is explored through code and experimentation rather than theory alone.
 
-🧰 Tools & Stack
+### Each notebook generally contains:
 
-Here's everything I'm working with throughout this journey:
+*  Concepts I studied
+*  Code I implemented
+*  Experiments and observations
+*  Results and evaluation
+*  Notes and important takeaways
+*  Things I learned or need to improve
 
-Languages
+The objective is simple:
 
+> **Learn → Implement → Experiment → Understand → Build**
 
-Python (primary language for everything ML)
+---
 
+# 🧰 Tools & Tech Stack
 
-Core Libraries
+## Languages
 
+* 🐍 Python
 
-NumPy — numerical computing, arrays, math operations
-Pandas — data manipulation and analysis
-Matplotlib & Seaborn — data visualization
-Scikit-learn — classical ML algorithms, model evaluation, pipelines
+## Data & Scientific Computing
 
+* NumPy
+* Pandas
+* SciPy
 
-Environment & Tools
+## Visualization
 
+* Matplotlib
+* Seaborn
 
-Google Colab — for daily notebooks
-Jupyter Notebook — local experimentation
-Git & GitHub — version control and sharing progress
-Kaggle — datasets, competitions, community
+## Machine Learning
 
+* Scikit-learn
+* XGBoost
 
+## Deep Learning
 
-GitHub: Gouravv09
-LinkedIn: www.linkedin.com/in/gourav015
+* PyTorch
+* TensorFlow / Keras
+
+## Environment & Development
+
+* Google Colab
+* Jupyter Notebook
+* VS Code
+
+## Version Control
+
+* Git
+* GitHub
+
+## Datasets & Practice
+
+* Kaggle
+
+---
+
+The structure will evolve as I learn more concepts and start building larger projects.
+
+---
+
+## 🔗 Connect With Me
+
+**GitHub:** [Gouravv09](https://github.com/Gouravv09)
+
+**LinkedIn:** [gourav015](https://www.linkedin.com/in/gourav015)
